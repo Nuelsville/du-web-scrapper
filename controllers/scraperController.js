@@ -92,6 +92,23 @@ const getScrapedData = (req, res) => {
       }
     });
   };
+
+const getScrapedData = (req, res) => {
+    const filePath = path.join(__dirname, '..', 'alternate_data.json');
+  
+    fs.readFile(filePath, 'utf8', (err, data) => {
+      if (err) {
+        return res.status(500).json({ message: 'Error reading the data file.' });
+      }
+  
+      try {
+        const jsonData = JSON.parse(data);
+        res.json(jsonData);
+      } catch (parseErr) {
+        res.status(500).json({ message: 'Error parsing the JSON file.' });
+      }
+    });
+};
   
 
 module.exports = { startScraping, autoScrape, getScrapedData };
