@@ -93,7 +93,7 @@ const getScrapedData = (req, res) => {
     });
   };
 
-const getScrapedData = (req, res) => {
+const getAlternateData = (req, res) => {
     const filePath = path.join(__dirname, '..', 'alternate_data.json');
   
     fs.readFile(filePath, 'utf8', (err, data) => {
@@ -111,4 +111,4 @@ const getScrapedData = (req, res) => {
 };
   
 
-module.exports = { startScraping, autoScrape, getScrapedData };
+module.exports = { startScraping, autoScrape, getScrapedData, getAlternateData };
