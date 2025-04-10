@@ -24,9 +24,16 @@ async function crawl(url, baseDomain) {
 
         scrapedPages.push({ url, content: pageText });
 
+        const fileExtensionPattern = /\.(jpg|jpeg|png|gif|svg|webp|bmp|tiff|pdf|docx?|xlsx?|pptx?|zip|rar|mp3|mp4|avi|mov|exe|csv|json|xml|txt)(\?.*)?$/i;
+
         $("a").each((_, el) => {
             const href = $(el).attr("href");
-            if (!href || href.startsWith("mailto:") || href.startsWith("tel:" || href.match(/\.(jpg|jpeg|png|gif|svg|webp|bmp|tiff)(\?.*)?$/i))) return;
+            if (
+                !href ||
+                href.startsWith("mailto:") ||
+                href.startsWith("tel:") ||
+                fileExtensionPattern.test(href)
+            ) return;
 
             let fullUrl;
             try {
