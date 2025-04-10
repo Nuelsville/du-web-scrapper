@@ -54,6 +54,184 @@
                 "profile": "https://dui.edu.ng/principal-officers"
             }
         },
+        "more_information": {
+            "university": {
+              "name": "Dominican University Ibadan",
+              "motto": "In veritate libertas",
+              "established": "22 November 2016",
+              "location": {
+                "address": "Plot 10A Educational Layout, Samonda, P.M.B. 5361, Ibadan, Oyo State, Nigeria",
+                "city": "Ibadan",
+                "state": "Oyo",
+                "country": "Nigeria"
+              },
+              "contact": {
+                "phone": [
+                  "+234 905-558-8867",
+                  "+234 905-558-8866",
+                  "+234 903-000-1712"
+                ],
+                "email": "info@dui.edu.ng",
+                "website": "https://dui.edu.ng/"
+              },
+              "faculties": [
+                {
+                  "name": "Faculty of Science",
+                  "programs": [
+                    "B.Sc. Botany",
+                    "B.Sc. Chemical Sciences",
+                    "B.Sc. Computer Science",
+                    "B.Sc. Mathematics",
+                    "B.Sc. Physics",
+                    "B.Sc. Statistics",
+                    "B.Sc. Zoology"
+                  ]
+                },
+                {
+                  "name": "Faculty of Humanities, Management & Social Sciences",
+                  "programs": [
+                    "B.Sc. Accounting",
+                    "B.Sc. Business Administration",
+                    "B.A. Christian Religious Studies",
+                    "B.Sc. Economics",
+                    "B.A. Philosophy"
+                  ]
+                },
+                {
+                  "name": "Faculty of Communication and Media Studies",
+                  "programs": [
+                    "B.Sc. Mass Communication",
+                    "B.Sc. Films & Multimedia"
+                  ]
+                },
+                {
+                  "name": "Aquinas Faculty of Theology",
+                  "programs": [
+                    "B.A. Theology",
+                    "Licentiate in Theology",
+                    "Doctorate in Theology"
+                  ]
+                }
+              ],
+              "admission_requirements": {
+                "100_level": {
+                  "requirements": [
+                    "Five (5) credit passes at SSCE (or its equivalent) in relevant subjects, including English and Mathematics, at not more than two (2) sittings.",
+                    "A satisfactory score in the Unified Tertiary Matriculation Examination (UTME) in relevant subjects."
+                  ]
+                },
+                "direct_entry": {
+                  "requirements": [
+                    "In addition to the five (5) credit passes at SSCE, candidates must have one of the following:",
+                    "General Certificate of Education with passes at 'A' level in a minimum of two subjects approved by the Senate.",
+                    "Credit-level pass in an Ordinary National Diploma (OND) or a Merit pass in a National Certificate in Education (NCE) from an approved institution.",
+                    "First degree or a Higher National Diploma (HND) from an approved university or polytechnic."
+                  ]
+                }
+              },
+              "student_services": [
+                {
+                  "service": "Library",
+                  "location": "Main Campus",
+                  "hours": "8:00 AM - 8:00 PM, Monday to Friday"
+                },
+                {
+                  "service": "Student Affairs Division",
+                  "description": "Provides support for student activities, counseling, and welfare."
+                },
+                {
+                  "service": "Health Services",
+                  "description": "On-campus clinic offering medical services to students and staff."
+                },
+                {
+                  "service": "Chaplaincy",
+                  "description": "Offers spiritual guidance and organizes religious activities."
+                }
+              ],
+              "fees": {
+                "application_fee": "₦10,000",
+                "post_utme_screening_fee": "₦2,000",
+                "tuition_fees": {
+                  "undergraduate": "Varies by program; detailed breakdown available on request."
+                }
+              },
+              "principal_officers": [
+                {
+                  "title": "Vice-Chancellor",
+                  "name": "Professor Jacinta A. Opara",
+                  "email": "vc@dui.edu.ng",
+                  "phone": "+234 905-558-8867"
+                },
+                {
+                  "title": "Acting Registrar",
+                  "name": "Rev. Fr. Samuel Onyiba, OP",
+                  "email": "registrar@dui.edu.ng",
+                  "phone": "+234 905-558-8866"
+                },
+                {
+                  "title": "Acting Bursar",
+                  "name": "Mrs. Sybil Chikaodili Onunaku",
+                  "email": "bursar@dui.edu.ng",
+                  "phone": "+234 903-000-1712"
+                },
+                {
+                  "title": "University Librarian",
+                  "name": "Miss Hannah Okon Anwana",
+                  "email": "librarian@dui.edu.ng",
+                  "phone": "+234 903-000-1712"
+                }
+              ],
+              "student_portal": {
+                "url": "https://dui.edu.ng/student_portal",
+                "services": [
+                  "Course Registration",
+                  "Result Checking",
+                  "Fee Payment",
+                  "E-Classroom Access"
+                ]
+              },
+              "accommodation": {
+                "hostels": [
+                  {
+                    "name": "Male Hostel",
+                    "capacity": 200,
+                    "facilities": [
+                      "24/7 Electricity",
+                      "Water Supply",
+                      "Common Room",
+                      "Study Area"
+                    ]
+                  },
+                  {
+                    "name": "Female Hostel",
+                    "capacity": 200,
+                    "facilities": [
+                      "24/7 Electricity",
+                      "Water Supply",
+                      "Common Room",
+                      "Study Area"
+                    ]
+                  }
+                ],
+                "application_process": "Students can apply for accommodation through the Student Affairs Division during the admission process."
+              },
+              "extracurricular_activities": [
+                {
+                  "club": "Drama Club",
+                  "description": "Engages students in theatrical performances and drama workshops."
+                },
+                {
+                  "club": "Debate Society",
+                  "description": "Organizes debates and public speaking events to enhance oratory skills."
+                },
+                {
+                  "club": "Sports Club",
+                  "description": "Offers various sports activities including football, basketball, and athletics."
+                }
+              ]
+            }
+          },
+          
         "conversationStrategy": {
             "prospectiveParentOrStudent": {
                 "tone": "professional, warm, enthusiastic",
