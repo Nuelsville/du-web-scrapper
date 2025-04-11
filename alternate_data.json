@@ -295,6 +295,69 @@
                     "Check in with follow-up questions to ensure resolution."
                 ]
             }
+        },
+        "calendar_link": "https://dui.edu.ng/academic-calendar",
+        "deans": "To be updated",
+        "academic_services": {
+            "transcripts": {
+                "contact_person": "Miss Tosin Bankole",
+                "portal": "https://portal.dui.edu.ng/"
+            },
+            "course_registration": {
+                "portal": "https://portal.dui.edu.ng/"
+            },
+            "change_department": {
+                "contact_info": "Use the portal or contact registry via https://dui.edu.ng/registry.php"
+            },
+            "timetable_access": {
+                "portal": "https://portal.dui.edu.ng/"
+            },
+            "mode_of_lectures": {
+                "undergraduate": "Physical",
+                "postgraduate": "Hybrid"
+            }
+        },
+        "student_life": {
+            "library": {
+                "location": "Main Campus",
+                "operating_hours": "8:00 AM - 5:00 PM",
+                "rules": "Maintain quiet, borrowing allowed with student ID",
+                "link": "https://dui.edu.ng/library.php"
+            },
+            "wifi": {
+                "availability": "For logged-in users",
+                "reset_info": "Accessible via student portal"
+            },
+            "school_id": {
+                "obtain_info": "https://dui.edu.ng/registry.php",
+                "replacement_info": "https://dui.edu.ng/registry.php"
+            },
+            "course_forms": {
+                "access": "Available via faculty offices or portal for UTME and Conversion students"
+            },
+            "hostel": {
+                "application_link": "https://dui.edu.ng/student_hostels.php",
+                "rules": "Provided upon admission",
+                "fees": "Available on request or during application",
+                "visiting_hours": "To be confirmed with Student Affairs"
+            },
+            "student_portal": {
+                "url": "https://portal.dui.edu.ng/",
+                "uses": [
+                    "Result checking",
+                    "Course registration",
+                    "Course evaluation"
+                ],
+                "common_issues": "Forgotten password or login — resolved via portal recovery or contacting ICT"
+            }
+        },
+        "fees_and_payments": {
+            "schedule_link": "https://dui.edu.ng/fees-schedule",
+            "payment_info": {
+                "account_name": "DOMINICAN UNIVERSITY IBADAN",
+                "account_number": "0245293873",
+                "bank": "GUARANTEE TRUST BANK PLC"
+            }
         }
     }
 ]
