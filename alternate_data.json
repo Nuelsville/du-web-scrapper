@@ -300,7 +300,8 @@
         "deans": "To be updated",
         "academic_services": {
             "transcripts": {
-                "contact_person": "Miss Tosin Bankole",
+                "contact_person": "Miss Oluwatosin Bankole",
+                "email": "records@dui.edu.ng",
                 "portal": "https://portal.dui.edu.ng/"
             },
             "course_registration": {
@@ -309,7 +310,7 @@
             "change_department": {
                 "contact_info": "Use the portal or contact registry via https://dui.edu.ng/registry.php"
             },
-            "timetable_access": {
+            "school_timetable_access": {
                 "portal": "https://portal.dui.edu.ng/"
             },
             "mode_of_lectures": {
