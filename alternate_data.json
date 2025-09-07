@@ -1,364 +1,497 @@
-[
-    {
-        "name": "Dominican University Ibadan",
-        "location": "Ibadan, Oyo State, Nigeria",
-        "established": "November 22, 2016",
-        "data": "Dominican University Ibadan (DUI) is a private institution located in Samonda, Ibadan, Oyo State, Nigeria. Established on November 22, 2016, by the Order of Preachers (Dominican Order of the Province of St. Joseph the Worker, Nigeria and Ghana), the university aims to provide quality education within the framework of Catholic higher education principles. The university's motto is \"In veritate libertas,\" which translates to \"In truth, liberty.\"\n\n**Academic Programs**\n\nDUI offers a range of undergraduate programs across various faculties:\n\n- **Faculty of Science**:\n  - B.Sc. Botany\n  - B.Sc. Chemical Sciences\n  - B.Sc. Computer Science\n  - B.Sc. Mathematics\n  - B.Sc. Physics\n  - B.Sc. Statistics\n  - B.Sc. Zoology\n\n- **Faculty of Humanities, Management & Social Sciences**:\n  - B.Sc. Accounting\n  - B.Sc. Business Administration\n  - B.A. Christian Religious Studies\n  - B.Sc. Economics\n  - B.A. Philosophy\n\n- **Faculty of Communication and Media Studies**:\n  - B.Sc. Mass Communication\n  - B.Sc. Films & Multimedia\n\n- **Aquinas Faculty of Theology**:\n  - B.A. Theology\n  - Licentiate in Theology\n  - Doctorate in Theology\n\n**Admission Requirements**\n\n*For 100 Level (UTME) Entry*:\n- Obtain five (5) credit passes at SSCE (or its equivalent) in relevant subjects, including English and Mathematics, at not more than two (2) sittings.\n- Score a satisfactory mark in the Unified Tertiary Matriculation Examination (UTME) in relevant subjects.\n\n*For Direct Entry into 200 Level*:\n- In addition to the five (5) credit passes at SSCE, candidates must:\n  - Hold a General Certificate of Education with passes at 'A' level in a minimum of two subjects approved by the Senate; or\n  - Have a credit-level pass in OND or a Merit pass in NCE; or\n  - Possess a first degree or an HND.\n\n**Specific SSCE and UTME Subject Requirements**\n\n- **Sciences**:\n  - SSCE: English, Mathematics, Physics, Chemistry, and one other science subject.\n  - UTME: English, Mathematics, Physics, Chemistry.\n\n- **Social Sciences**:\n  - SSCE: English, Mathematics, Economics, and two other subjects.\n  - UTME: English, Mathematics, Economics, and one other subject.\n\n- **Humanities**:\n  - SSCE: English and four other subjects.\n  - UTME: English and three other subjects.\n\n**Application Process**\nApplicants pay ₦15,000 for application and ₦2,000 for screening. Required documents include JAMB result, SSCE result, passport photo, and payment receipt.\n\n**Principal Officers**:\n- Vice-Chancellor: Professor Jacinta A. Opara\n- Acting Registrar: Rev. Fr. Samuel Onyiba, OP\n- Acting Bursar: Mrs. Sybil Chikaodili Onunaku\n- Librarian: Miss Hannah Okon Anwana\n\n**Nigerian Education System**\n6-3-3-4 system: 6 yrs primary, 3 yrs JSS, 3 yrs SSS, 4+ yrs tertiary. Overseen by the Federal Ministry of Education.\n\n**Contact**: 0903-000-1712\n\n**Development Programs**:\n\n- **Professional Development**: CPTD offers short-term programs, workshops, and seminars.\n- **Spiritual Formation**: Retreats, theological education, and pastoral training.\n- **Entrepreneurship**: CCES builds creativity and business readiness.\n- **Extracurricular**: Sports, clubs, cultural events, and recreation.",
-        "key_personnels": {
+{
+    "name": "The Polytechnic, Ibadan",
+    "location": "Ibadan, Oyo State, Nigeria",
+    "established": "August 7, 1970",
+    "data": "The Polytechnic, Ibadan is a public tertiary institution located in Ibadan, Oyo State, Nigeria. It was established on August 7, 1970 as a successor to the Technical College, Ibadan under the Polytechnic Ibadan Edict 1970, with the mandate to provide technical and vocational education and training in applied science, engineering, environmental studies, commerce and agriculture. The institution operates a multi-campus structure and is known for its motto ‘Ise Loogun Ise’, a Yoruba phrase meaning ‘Work is the medicine for poverty’, symbolising the value of hard work. Over the years, the polytechnic has produced middle‑ and high‑level manpower for various industries and has evolved to include full‑time National Diploma (ND) and Higher National Diploma (HND) programmes, Daily Part‑Time Programme (DPP) and Continuing Education Centre (CEC) part‑time programmes. It houses several faculties – Engineering, Environmental Studies, Science, Business and Communication Studies, Financial Management Studies and Vocational & Technical Education – each offering a variety of ND and HND programmes. Admission into ND programmes requires at least five credit passes at O’level (including English and Mathematics) and a minimum UTME score prescribed by JAMB (typically 150)【495664491148919†L108-L115】. HND admission demands a relevant ND certificate with a minimum of lower credit, completion of at least one‑year industrial training, and five credit passes at O’level【495664491148919†L159-L245】. Daily Part‑Time and CEC part‑time programmes admit candidates who purchase part‑time admission forms through the JAMB platform and meet the same O’level credit requirements; DPP applicants must obtain a JAMB registration number and have a minimum UTME score of 150【703792631874867†L32-L126】【902312501591338†L25-L115】. The Polytechnic’s library system comprises a main library with about 79,500 volumes and 819 seating capacity and a newer ultra‑modern library with 2,000 seating capacity; the libraries provide resources such as audio‑visual materials, printing services and study spaces and operate Monday–Friday 8:00 am–10:00 pm during session and 8:00 am–3:00 pm during vacation【179531119284558†L207-L273】. Student support services include a health centre and eye clinic – an ultra‑modern complex with 18 bed spaces offering free medical services, laboratories, X‑ray, ambulance and 24‑hour service with doctors available 8:00 am–2:00 pm【45655668014284†L207-L310】; a sports unit with facilities for football, basketball, volleyball, tennis, squash and indoor games and active participation in national sports competitions【796822605274810†L207-L247】; and a Vocational Skills and Entrepreneurial Study Centre (VSESC) established in 2009 to equip students with functional skills and work habits for self‑reliance【6817475909647†L207-L225】. The Industrial Liaison and Placement Office (ILPO) oversees Students Industrial Work Experience Scheme (SIWES) placements and provides career guidance and counselling to students【375731841597382†L209-L273】.",
+    "key_personnels": {
+        "principal_officers": [
+            {
+                "title": "Acting Rector",
+                "name": "Dr. Taiwo Abideen Lasisi",
+                "email": "registrar@polyibadan.edu.ng",
+                "phone": "+234 906 227 4900",
+                "profile": "https://polyibadan.edu.ng"
+            },
+            {
+                "title": "Deputy Rector",
+                "name": "Mrs. Olaide Oluwatoyin Salawu",
+                "email": "registrar@polyibadan.edu.ng",
+                "phone": "+234 906 227 4900",
+                "profile": "https://polyibadan.edu.ng"
+            },
+            {
+                "title": "Acting Registrar",
+                "name": "Mr. Adewumi Joseph Ogunjimi",
+                "email": "registrar@polyibadan.edu.ng",
+                "phone": "+234 906 227 4900",
+                "profile": "https://polyibadan.edu.ng"
+            },
+            {
+                "title": "Acting Bursar",
+                "name": "Mr. David Olukola Taiwo",
+                "email": "registrar@polyibadan.edu.ng",
+                "phone": "+234 906 227 4900",
+                "profile": "https://polyibadan.edu.ng"
+            },
+            {
+                "title": "Deputy Registrar (Admissions)",
+                "name": "Not Listed",
+                "email": "admissions@polyibadan.edu.ng",
+                "phone": "+234 812 399 5441",
+                "profile": "https://polyibadan.edu.ng"
+            }
+        ],
+        "board_of_trustees": {
+            "chairman": {
+                "name": "Prof. Lanre Nassar",
+                "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+            },
+            "members": [
+                {
+                    "name": "Prince Adeleke Akinboye Ajala",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Prof. Odunola Olaitan Olutayo",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Prof. (Engr.) Mudasiru Lateef Owolabi",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Mr. Abduljelili Sunmonu",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Engr. Tajudeen Bello Olori",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Mr. Ogungbe Oludele Tunji",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                },
+                {
+                    "name": "Mrs. Eniola Lucy Bola",
+                    "profile": "https://www.thenationonlineng.net/gov-makinde-inaugurates-polyibadan-governing-council/"
+                }
+            ]
+        },
+        "chancellor": {
+            "name": "Not Applicable",
+            "profile": "https://polyibadan.edu.ng"
+        },
+        "pro_chancellor": {
+            "name": "Not Applicable",
+            "profile": "https://polyibadan.edu.ng"
+        },
+        "visitor": {
+            "name": "Engr. Seyi Makinde (Governor of Oyo State)",
+            "profile": "https://polyibadan.edu.ng"
+        }
+    },
+    "more_information": {
+        "university": {
+            "name": "The Polytechnic, Ibadan",
+            "motto": "Ise Loogun Ise (Work is the medicine for poverty)",
+            "established": "7 August 1970",
+            "location": {
+                "address": "Sango‑Eleyele Express Road, P.M.B. 22, Ibadan, Oyo State, Nigeria",
+                "city": "Ibadan",
+                "state": "Oyo",
+                "country": "Nigeria"
+            },
+            "contact": {
+                "phone": [
+                    "+234 812 399 5441",
+                    "+234 701 720 7034",
+                    "+234 806 474 1544",
+                    "+234 906 227 4900"
+                ],
+                "email": "registrar@polyibadan.edu.ng",
+                "website": "https://polyibadan.edu.ng/"
+            },
+            "faculties": [
+                {
+                    "name": "Faculty of Engineering",
+                    "programs": [
+                        "ND Agricultural Engineering/Technology",
+                        "ND Civil Engineering Technology",
+                        "ND Computer Engineering",
+                        "ND Electrical/Electronic Engineering Technology",
+                        "ND Mechanical Engineering Technology",
+                        "ND Mechatronics Engineering Technology",
+                        "HND Civil Engineering (Structures/Transportation)",
+                        "HND Computer Engineering",
+                        "HND Electrical/Electronic Engineering (Electronics/Power & Machines)",
+                        "HND Mechanical Engineering (Power/Production)",
+                        "ND Agricultural Technology"
+                    ]
+                },
+                {
+                    "name": "Faculty of Science",
+                    "programs": [
+                        "ND Science Laboratory Technology",
+                        "ND Statistics",
+                        "ND Computer Science",
+                        "ND Geological Technology",
+                        "ND Applied Chemistry",
+                        "ND Biochemistry",
+                        "ND Biology/Microbiology",
+                        "ND Microbiology",
+                        "ND Physics with Electronics",
+                        "HND Science Laboratory Technology (Chemistry, Biology/Microbiology, Biochemistry, Physics with Electronics, Geology)",
+                        "HND Statistics",
+                        "HND Computer Science",
+                        "HND Geological Technology"
+                    ]
+                },
+                {
+                    "name": "Faculty of Environmental Studies",
+                    "programs": [
+                        "ND Architectural Technology",
+                        "ND Building Technology",
+                        "ND Estate Management & Valuation",
+                        "ND Graphics & Printing Technology",
+                        "ND Fine & Applied Arts (Ceramic, Sculpture, Textile & Design, Painting)",
+                        "ND Urban & Regional Planning",
+                        "ND Quantity Surveying",
+                        "ND Surveying & Geoinformatics",
+                        "HND Architectural Technology",
+                        "HND Building Technology",
+                        "HND Estate Management & Valuation",
+                        "HND Urban & Regional Planning",
+                        "HND Quantity Surveying",
+                        "HND Surveying & Geoinformatics",
+                        "Post‑HND Professional Diploma in Urban & Regional Planning"
+                    ]
+                },
+                {
+                    "name": "Faculty of Business and Communication Studies",
+                    "programs": [
+                        "ND Business Administration & Management",
+                        "ND Marketing",
+                        "ND Mass Communication",
+                        "ND Music Technology",
+                        "ND Office Technology & Management",
+                        "ND Public Administration",
+                        "ND Purchasing & Supply",
+                        "ND Local Government & Development Studies",
+                        "HND Business Administration & Management",
+                        "HND Marketing",
+                        "HND Mass Communication",
+                        "HND Music Technology",
+                        "HND Office Technology & Management",
+                        "HND Public Administration",
+                        "HND Purchasing & Supply",
+                        "HND Local Government Studies"
+                    ]
+                },
+                {
+                    "name": "Faculty of Financial Management Studies",
+                    "programs": [
+                        "ND Accountancy",
+                        "ND Banking & Finance",
+                        "ND Insurance",
+                        "HND Accountancy",
+                        "HND Banking & Finance",
+                        "HND Insurance"
+                    ]
+                },
+                {
+                    "name": "Faculty of Vocational & Technical Education",
+                    "programs": [
+                        "ND Fashion Design & Clothing Technology",
+                        "ND Agricultural Technology",
+                        "Various trades via Vocational Skills & Entrepreneurship Centre (Short‑term certificates)"
+                    ]
+                }
+            ],
+            "admission_requirements": {
+                "ND_full_time": {
+                    "requirements": [
+                        "Obtain at least five (5) credit passes at O’level (WAEC/NECO/NABTEB) in relevant subjects including English and Mathematics at not more than two sittings【495664491148919†L108-L115】.",
+                        "Score a minimum of 150 in the Unified Tertiary Matriculation Examination (UTME) and choose The Polytechnic, Ibadan as first choice in JAMB【495664491148919†L108-L115】.",
+                        "Meet the departmental cut‑off mark and other specific requirements for the chosen programme【495664491148919†L159-L245】."
+                    ]
+                },
+                "HND_full_time": {
+                    "requirements": [
+                        "Possess a National Diploma (ND) in the relevant field with a minimum of Lower Credit grade from The Polytechnic, Ibadan or any other accredited institution【495664491148919†L159-L245】.",
+                        "Have at least one year post‑ND industrial training experience (or two years for those with pass grade)【495664491148919†L159-L245】.",
+                        "Provide evidence of transcripts from previous institution(s) and relevant professional experience【495664491148919†L159-L245】.",
+                        "Have five (5) O’level credit passes including English and Mathematics (as required at ND entry)【495664491148919†L159-L245】."
+                    ]
+                },
+                "DPP_part_time": {
+                    "requirements": [
+                        "Obtain a JAMB part‑time application form and register with a valid JAMB registration number【703792631874867†L32-L126】.",
+                        "Possess five (5) credit passes at O’level including English and Mathematics, obtained in not more than two sittings【703792631874867†L32-L126】.",
+                        "Achieve a minimum UTME score of 150 and choose the DPP option during registration【703792631874867†L32-L126】.",
+                        "Apply through the institution’s admission portal and pay the prescribed application fee before the closing date (usually late July)【703792631874867†L32-L126】."
+                    ]
+                },
+                "CEC_part_time": {
+                    "requirements": [
+                        "ND applicants: obtain a JAMB part‑time application form and register for The Polytechnic, Ibadan Continuing Education Centre (CEC) programme【902312501591338†L25-L115】.",
+                        "HND applicants: hold a National Diploma in the relevant discipline with at least Lower Credit grade and meet the one‑year industrial attachment requirement【902312501591338†L25-L115】.",
+                        "Have five (5) credit passes at O’level including English and Mathematics, at not more than two sittings【902312501591338†L25-L115】.",
+                        "Pay the prescribed application fee and complete the online application form via the admissions portal【902312501591338†L25-L115】."
+                    ]
+                }
+            },
+            "student_services": [
+                {
+                    "service": "Library System",
+                    "description": "The polytechnic library system comprises a main library with 819 seating capacity and approximately 79,500 volumes of books, and an ultra‑modern library with about 2,000 seating capacity. Services include book lending, reference services, audio‑visual centre, printing unit and general study spaces. Library hours during session are Monday–Friday 8:00 am–10:00 pm, Saturday 8:00 am–1:00 pm; during vacation 8:00 am–3:00 pm; it is closed on Sundays and public holidays【179531119284558†L207-L273】.",
+                    "location": "Main and ultra‑modern libraries at the main campus",
+                    "hours": "8:00 AM – 10:00 PM (Monday–Friday), 8:00 AM – 1:00 PM (Saturday) during session; 8:00 AM – 3:00 PM during vacation【179531119284558†L207-L273】"
+                },
+                {
+                    "service": "Health Centre & Eye Clinic",
+                    "description": "A modern health facility located between the North and South Campuses offering free medical care to students and staff. The centre has an 18‑bed ward and provides services such as general outpatient care, eye clinic, laboratory investigations, X‑ray, immunization, ambulance services and emergency treatment. Doctors are available between 8:00 AM and 2:00 PM daily; nurses provide 24‑hour coverage【45655668014284†L207-L310】.",
+                    "location": "Middle Belt (between North and South campuses)",
+                    "hours": "24‑hour service; doctors available 8:00 AM – 2:00 PM【45655668014284†L207-L310】"
+                },
+                {
+                    "service": "Sports Unit",
+                    "description": "The Sports Unit provides facilities for football (three pitches), basketball, handball, volleyball, tennis, squash, chess and scrabble. The institution participates in national and West African Polytechnic games (NIPOGA and WAPOGA), offering scholarships to outstanding athletes and promoting staff fitness through welfare activities【796822605274810†L207-L247】.",
+                    "location": "North and South campuses sports grounds",
+                    "hours": "Varies (sports facilities available during daylight hours)"
+                },
+                {
+                    "service": "Vocational Skills & Entrepreneurial Study Centre (VSESC)",
+                    "description": "Established in 2009, VSESC equips students with functional vocational skills and entrepreneurial knowledge. All students must learn and master a trade before graduation; the centre also trains youths, civil servants and retirees to enhance job skills and foster self‑reliance【6817475909647†L207-L225】.",
+                    "location": "VSESC complex at the main campus",
+                    "hours": "Working hours (8:00 AM – 4:00 PM, weekdays)"
+                },
+                {
+                    "service": "Industrial Liaison & Placement Office (ILPO) / SIWES Unit",
+                    "description": "ILPO manages the Students Industrial Work Experience Scheme (SIWES) by liaising with industry to secure placement for students, assists them with career planning and provides guidance and counselling for job opportunities. It collaborates with employers to ensure students gain practical training and helps students decide career paths【375731841597382†L209-L273】.",
+                    "location": "ILPO office, Administrative Block, main campus",
+                    "hours": "8:00 AM – 4:00 PM (Monday–Friday)"
+                }
+            ],
+            "fees": {
+                "application_fee": "Approximately ₦2,000 for part‑time application forms and ₦10,000 for HND application; specific amounts may vary by session.",
+                "post_utme_screening_fee": "Usually around ₦2,000 for ND applicants.",
+                "tuition_fees": {
+                    "ND_full_time": "Indigenes: ~₦82,000 per session (55,000 1st semester + 27,000 2nd semester); Non‑indigenes: ~₦88,000; DPP: ~₦116,000【837592719462207†L243-L315】.",
+                    "HND_full_time": "Indigenes: ~₦88,000 per session; Non‑indigenes: ~₦92,000; DPP: ~₦130,000【837592719462207†L243-L315】.",
+                    "ND_DPP": "Approximately ₦116,000 per session (76,000 1st semester + 40,000 2nd semester)【837592719462207†L243-L315】.",
+                    "HND_DPP": "Approximately ₦130,000 per session (87,000 1st semester + 43,000 2nd semester)【837592719462207†L243-L315】."
+                }
+            },
+            "directors": [
+                {
+                    "title": "Director, Vocational Skills & Entrepreneurial Study Centre (VSESC)",
+                    "name": "Director not specified",
+                    "email": "info@polyibadan.edu.ng",
+                    "phone": "+234 812 399 5441",
+                    "unit": "VSESC",
+                    "description": "Heads the centre responsible for vocational and entrepreneurial training for all students and external trainees【6817475909647†L207-L225】."
+                },
+                {
+                    "title": "Director, Industrial Liaison & Placement Office (ILPO)",
+                    "name": "Director not specified",
+                    "email": "siwes@polyibadan.edu.ng",
+                    "phone": "+234 812 399 5441",
+                    "unit": "ILPO/SIWES",
+                    "description": "Coordinates Students Industrial Work Experience Scheme (SIWES) placements, liaises with industry and provides career guidance and counselling【375731841597382†L209-L273】."
+                },
+                {
+                    "title": "Director, Sports Unit",
+                    "name": "Director not specified",
+                    "email": "sports@polyibadan.edu.ng",
+                    "phone": "+234 812 399 5441",
+                    "unit": "Sports Unit",
+                    "description": "Oversees sports development, coaching, competitions and fitness programmes for students and staff【796822605274810†L207-L247】."
+                },
+                {
+                    "title": "Director, Library Services",
+                    "name": "Director not specified",
+                    "email": "library@polyibadan.edu.ng",
+                    "phone": "+234 812 399 5441",
+                    "unit": "Library",
+                    "description": "Manages the central and branch libraries, ensuring access to books, journals, e‑resources and study facilities【179531119284558†L207-L273】."
+                },
+                {
+                    "title": "Director, Health Services",
+                    "name": "Director not specified",
+                    "email": "health@polyibadan.edu.ng",
+                    "phone": "+234 812 399 5441",
+                    "unit": "Health Centre",
+                    "description": "Supervises the health centre and eye clinic providing medical care and health education to students and staff【45655668014284†L207-L310】."
+                }
+            ],
             "principal_officers": [
                 {
-                    "title": "Vice Chancellor",
-                    "name": "Professor Jacinta A. Opara",
-                    "email": "vc@dui.edu.ng",
-                    "phone": "0905-558-8867",
-                    "profile": "https://dui.edu.ng/new_vc_profile"
+                    "title": "Acting Rector",
+                    "name": "Dr. Taiwo Abideen Lasisi",
+                    "email": "registrar@polyibadan.edu.ng",
+                    "phone": "+234 906 227 4900"
+                },
+                {
+                    "title": "Deputy Rector",
+                    "name": "Mrs. Olaide Oluwatoyin Salawu",
+                    "email": "registrar@polyibadan.edu.ng",
+                    "phone": "+234 906 227 4900"
                 },
                 {
                     "title": "Acting Registrar",
-                    "name": "Rev. Fr. Samuel Onyiba, OP",
-                    "email": "registrar@dui.edu.ng",
-                    "phone": "0905-558-8866",
-                    "profile": "https://dui.edu.ng/principal-officers"
+                    "name": "Mr. Adewumi Joseph Ogunjimi",
+                    "email": "registrar@polyibadan.edu.ng",
+                    "phone": "+234 906 227 4900"
                 },
                 {
                     "title": "Acting Bursar",
-                    "name": "Mrs. Sybil Chikaodili Onunaku",
-                    "email": "bursar@dui.edu.ng",
-                    "phone": "0903-000-1712",
-                    "profile": "https://dui.edu.ng/principal-officers-details?title=Acting+Bursar"
-                },
-                {
-                    "title": "University Librarian",
-                    "name": "Miss Hannah Okon Anwana",
-                    "email": "librarian@dui.edu.ng",
-                    "phone": "0903-000-1712",
-                    "profile": "https://dui.edu.ng/principal-officers"
+                    "name": "Mr. David Olukola Taiwo",
+                    "email": "registrar@polyibadan.edu.ng",
+                    "phone": "+234 906 227 4900"
                 }
             ],
-            "board_of_trustees": {
-                "chairman": {
-                    "name": "Chief Anthony Idigbe (SAN)",
-                    "profile": "https://dui.edu.ng/principal-officers"
-                }
-            },
-            "chancellor": {
-                "name": "Rev. Fr. Modestus Ngwu, OP",
-                "profile": "https://dui.edu.ng/principal-officers"
-            },
-            "pro_chancellor": {
-                "name": "Mr. Peter Gregory Obi",
-                "profile": "https://dui.edu.ng/news-detail?sn=28"
-            },
-            "visitor": {
-                "name": "Master of the Order of Preachers, Gerard Timoner III",
-                "profile": "https://dui.edu.ng/principal-officers"
-            }
-        },
-        "more_information": {
-            "university": {
-                "name": "Dominican University Ibadan",
-                "motto": "In veritate libertas",
-                "established": "22 November 2016",
-                "location": {
-                    "address": "Plot 10A Educational Layout, Samonda, P.M.B. 5361, Ibadan, Oyo State, Nigeria",
-                    "city": "Ibadan",
-                    "state": "Oyo",
-                    "country": "Nigeria"
-                },
-                "contact": {
-                    "phone": [
-                        "+234 905-558-8867",
-                        "+234 905-558-8866",
-                        "+234 903-000-1712"
-                    ],
-                    "email": "info@dui.edu.ng",
-                    "website": "https://dui.edu.ng/"
-                },
-                "faculties": [
-                    {
-                        "name": "Faculty of Science",
-                        "programs": [
-                            "B.Sc. Botany",
-                            "B.Sc. Chemical Sciences",
-                            "B.Sc. Computer Science",
-                            "B.Sc. Mathematics",
-                            "B.Sc. Physics",
-                            "B.Sc. Statistics",
-                            "B.Sc. Zoology"
-                        ]
-                    },
-                    {
-                        "name": "Faculty of Humanities, Management & Social Sciences",
-                        "programs": [
-                            "B.Sc. Accounting",
-                            "B.Sc. Business Administration",
-                            "B.A. Christian Religious Studies",
-                            "B.Sc. Economics",
-                            "B.A. Philosophy"
-                        ]
-                    },
-                    {
-                        "name": "Faculty of Communication and Media Studies",
-                        "programs": [
-                            "B.Sc. Mass Communication",
-                            "B.Sc. Films & Multimedia"
-                        ]
-                    },
-                    {
-                        "name": "Aquinas Faculty of Theology",
-                        "programs": [
-                            "B.A. Theology",
-                            "Licentiate in Theology",
-                            "Doctorate in Theology"
-                        ]
-                    }
-                ],
-                "admission_requirements": {
-                    "100_level": {
-                        "requirements": [
-                            "Five (5) credit passes at SSCE (or its equivalent) in relevant subjects, including English and Mathematics, at not more than two (2) sittings.",
-                            "A satisfactory score in the Unified Tertiary Matriculation Examination (UTME) in relevant subjects."
-                        ]
-                    },
-                    "direct_entry": {
-                        "requirements": [
-                            "In addition to the five (5) credit passes at SSCE, candidates must have one of the following:",
-                            "General Certificate of Education with passes at 'A' level in a minimum of two subjects approved by the Senate.",
-                            "Credit-level pass in an Ordinary National Diploma (OND) or a Merit pass in a National Certificate in Education (NCE) from an approved institution.",
-                            "First degree or a Higher National Diploma (HND) from an approved university or polytechnic."
-                        ]
-                    }
-                },
-                "student_services": [
-                    {
-                        "service": "Library",
-                        "location": "Main Campus",
-                        "hours": "8:00 AM - 8:00 PM, Monday to Friday"
-                    },
-                    {
-                        "service": "Student Affairs Division",
-                        "description": "Provides support for student activities, counseling, and welfare."
-                    },
-                    {
-                        "service": "Health Services",
-                        "description": "On-campus clinic offering medical services to students and staff."
-                    },
-                    {
-                        "service": "Chaplaincy",
-                        "description": "Offers spiritual guidance and organizes religious activities."
-                    }
-                ],
-                "fees": {
-                    "application_fee": "₦10,000",
-                    "post_utme_screening_fee": "₦2,000",
-                    "tuition_fees": {
-                        "undergraduate": "Varies by program; detailed breakdown available on request."
-                    }
-                },
-                "directors": [
-                    {
-                        "title": "Director of ICT",
-                        "name": "Rev. Fr. Chidozie Peter Onwe, OP",
-                        "email": "ict@dui.edu.ng",
-                        "phone": "+234 803 582 4159",
-                        "unit": "ICT Unit",
-                        "description": "Oversees information and communication technology services at DUI, ensuring digital infrastructure supports teaching, learning, and administration."
-                    },
-                    {
-                        "title": "Director, Centre for Professional Training and Development",
-                        "name": "Rev. Fr. Lazarus Iwueke, CM",
-                        "email": "cptd@dui.edu.ng",
-                        "phone": "+234 905 558 8867",
-                        "unit": "CPTD",
-                        "description": "Coordinates short-term certifications, workshops, and skill-based courses designed to enhance students’ employability and lifelong learning."
-                    },
-                    {
-                        "title": "Director, HND-B.Sc. Conversion Programmes",
-                        "name": "Dr. Ebenezer Oyetide Olalere",
-                        "email": "olalere.e@dui.edu.ng",
-                        "phone": "+234 705 600 4600",
-                        "unit": "Conversion Programmes Office",
-                        "description": "Manages the academic and administrative structure of the HND-B.Sc. conversion pathway at DUI."
-                    },
-                    {
-                        "title": "Director, Centre for Audio-Visual Communication",
-                        "name": "Not Listed",
-                        "email": "info@dui.edu.ng",
-                        "phone": "+234 905 558 8867",
-                        "unit": "CAVC",
-                        "description": "Oversees audiovisual media production, including studio-based learning materials, banners, magazines, and communication projects within the university."
-                    },
-                    {
-                        "title": "Director, SIWES Unit",
-                        "name": "Not Listed",
-                        "email": "info@dui.edu.ng",
-                        "phone": "+234 905 558 8867",
-                        "unit": "SIWES (Students Industrial Work Experience Scheme)",
-                        "description": "Coordinates the industrial training program, providing students with real-world work experience in their respective fields before graduation."
-                    }
-                ],
-                "principal_officers": [
-                    {
-                        "title": "Vice-Chancellor",
-                        "name": "Professor Jacinta A. Opara",
-                        "email": "vc@dui.edu.ng",
-                        "phone": "+234 905-558-8867"
-                    },
-                    {
-                        "title": "Acting Registrar",
-                        "name": "Rev. Fr. Samuel Onyiba, OP",
-                        "email": "registrar@dui.edu.ng",
-                        "phone": "+234 905-558-8866"
-                    },
-                    {
-                        "title": "Acting Bursar",
-                        "name": "Mrs. Sybil Chikaodili Onunaku",
-                        "email": "bursar@dui.edu.ng",
-                        "phone": "+234 903-000-1712"
-                    },
-                    {
-                        "title": "University Librarian",
-                        "name": "Miss Hannah Okon Anwana",
-                        "email": "librarian@dui.edu.ng",
-                        "phone": "+234 903-000-1712"
-                    }
-                ],
-                "student_portal": {
-                    "url": "https://dui.edu.ng/student_portal",
-                    "services": [
-                        "Course Registration",
-                        "Result Checking",
-                        "Fee Payment",
-                        "E-Classroom Access"
-                    ]
-                },
-                "accommodation": {
-                    "hostels": [
-                        {
-                            "name": "Male Hostel",
-                            "capacity": 200,
-                            "facilities": [
-                                "24/7 Electricity",
-                                "Water Supply",
-                                "Common Room",
-                                "Study Area"
-                            ]
-                        },
-                        {
-                            "name": "Female Hostel",
-                            "capacity": 200,
-                            "facilities": [
-                                "24/7 Electricity",
-                                "Water Supply",
-                                "Common Room",
-                                "Study Area"
-                            ]
-                        }
-                    ],
-                    "application_process": "Students can apply for accommodation through the Student Affairs Division during the admission process."
-                },
-                "extracurricular_activities": [
-                    {
-                        "club": "Drama Club",
-                        "description": "Engages students in theatrical performances and drama workshops."
-                    },
-                    {
-                        "club": "Debate Society",
-                        "description": "Organizes debates and public speaking events to enhance oratory skills."
-                    },
-                    {
-                        "club": "Sports Club",
-                        "description": "Offers various sports activities including football, basketball, and athletics."
-                    }
-                ]
-            }
-        },
-        "conversationStrategy": {
-            "prospectiveParentOrStudent": {
-                "tone": "professional, warm, enthusiastic",
-                "style": "pitch-like, persuasive, reassuring",
-                "behavior": [
-                    "Provide detailed info on programs, admissions, and facilities.",
-                    "Highlight the school's values, spiritual foundation, and academic excellence.",
-                    "Mention career prospects and success stories if relevant.",
-                    "Handle objections or doubts gracefully and professionally.",
-                    "End with an encouragement to take the next step (apply or visit)."
-                ]
-            },
-            "existingStudent": {
-                "tone": "supportive, respectful, empathetic",
-                "style": "student-centered, helpful, calm",
-                "behavior": [
-                    "Show concern and understanding toward academic or personal issues.",
-                    "Offer specific help (e.g., course info, bursary details, or events).",
-                    "Redirect them to the right department or contact if necessary.",
-                    "Check in with follow-up questions to ensure resolution."
-                ]
-            }
-        },
-        "calendar_link": "https://dui.edu.ng/academic-calendar",
-        "deans": "To be updated",
-        "academic_services": {
-            "transcripts": {
-                "contact_person": "Miss Oluwatosin Bankole",
-                "email": "records@dui.edu.ng",
-                "portal": "https://portal.dui.edu.ng/"
-            },
-            "course_registration": {
-                "portal": "https://portal.dui.edu.ng/"
-            },
-            "change_department": {
-                "contact_info": "Use the portal or contact registry via https://dui.edu.ng/registry.php"
-            },
-            "school_timetable_access": {
-                "portal": "https://portal.dui.edu.ng/"
-            },
-            "mode_of_lectures": {
-                "undergraduate": "Physical",
-                "postgraduate": "Hybrid"
-            }
-        },
-        "student_life": {
-            "library": {
-                "location": "Main Campus",
-                "operating_hours": "8:00 AM - 5:00 PM",
-                "rules": "Maintain quiet, borrowing allowed with student ID",
-                "link": "https://dui.edu.ng/library.php"
-            },
-            "wifi": {
-                "availability": "For logged-in users",
-                "reset_info": "Accessible via student portal"
-            },
-            "school_id": {
-                "obtain_info": "https://dui.edu.ng/registry.php",
-                "replacement_info": "https://dui.edu.ng/registry.php"
-            },
-            "course_forms": {
-                "access": "Available via faculty offices or portal for UTME and Conversion students"
-            },
-            "hostel": {
-                "application_link": "https://dui.edu.ng/student_hostels.php",
-                "rules": "Provided upon admission",
-                "fees": "Available on request or during application",
-                "visiting_hours": "To be confirmed with Student Affairs"
-            },
             "student_portal": {
-                "url": "https://portal.dui.edu.ng/",
-                "uses": [
-                    "Result checking",
-                    "Course registration",
-                    "Course evaluation"
+                "url": "https://portal.polyibadan.edu.ng/",
+                "services": [
+                    "Course Registration",
+                    "Result Checking",
+                    "Fee Payment",
+                    "Admission Letter Printing",
+                    "E‑Learning and Lecture Materials"
+                ]
+            },
+            "accommodation": {
+                "hostels": [
+                    {
+                        "name": "Male Hostel",
+                        "capacity": "Not specified (campus provides hostel accommodation for male students)",
+                        "facilities": [
+                            "24/7 Electricity",
+                            "Water supply",
+                            "Common room",
+                            "Study area"
+                        ]
+                    },
+                    {
+                        "name": "Female Hostel",
+                        "capacity": "Not specified (campus provides hostel accommodation for female students)",
+                        "facilities": [
+                            "24/7 Electricity",
+                            "Water supply",
+                            "Common room",
+                            "Study area"
+                        ]
+                    }
                 ],
-                "common_issues": "Forgotten password or login — resolved via portal recovery or contacting ICT"
-            }
+                "application_process": "Students apply for hostel accommodation through the Student Affairs Division during admission and are allocated spaces based on availability."
+            },
+            "extracurricular_activities": [
+                {
+                    "club": "Drama Club",
+                    "description": "Engages students in theatrical performances and drama workshops, promoting creative expression."
+                },
+                {
+                    "club": "Debate Society",
+                    "description": "Organises debates and public speaking events to enhance students’ oratory and critical‑thinking skills."
+                },
+                {
+                    "club": "Sports Club",
+                    "description": "Offers various sports activities including football, basketball, volleyball, athletics and indoor games, with opportunities to compete at local and national levels."
+                },
+                {
+                    "club": "Entrepreneurship Club",
+                    "description": "Provides a platform for students to develop business ideas, participate in start‑up workshops and learn practical entrepreneurial skills."
+                }
+            ]
+        }
+    },
+    "conversationStrategy": {
+        "prospectiveParentOrStudent": {
+            "tone": "professional, warm, enthusiastic",
+            "style": "pitch‑like, persuasive, reassuring",
+            "behavior": [
+                "Provide detailed information on programmes (ND, HND, DPP, CEC), admission requirements and facilities.",
+                "Highlight the institution’s values, motto and commitment to technical excellence and practical training.",
+                "Mention career prospects, industrial training opportunities and success stories of graduates.",
+                "Address objections or concerns about fees, cut‑off marks and programme suitability professionally and provide guidance.",
+                "Encourage the prospect to visit the campus or apply through the admission portal and emphasise the supportive environment."
+            ]
         },
-        "fees_and_payments": {
-            "schedule_link": "https://dui.edu.ng/fees-schedule",
-            "payment_info": {
-                "account_name": "DOMINICAN UNIVERSITY IBADAN",
-                "account_number": "0245293873",
-                "bank": "Guaranty Trust Bank PLC"
-            }
+        "existingStudent": {
+            "tone": "supportive, respectful, empathetic",
+            "style": "student‑centred, helpful, calm",
+            "behavior": [
+                "Show understanding toward academic or personal issues and actively listen to the student’s concerns.",
+                "Provide specific assistance with course registration, fee payment, timetable access and other academic services via the student portal.",
+                "Refer the student to appropriate units (registry, bursary, hostel management, ICT, ILPO) when necessary and provide contact details.",
+                "Follow up with questions to ensure the issue is resolved and offer general advice on academic success and well‑being.",
+                "Encourage participation in extracurricular activities and utilisation of support services like the library, health centre and counselling."
+            ]
+        }
+    },
+    "calendar_link": "https://polyibadan.edu.ng/academic-calendar",
+    "deans": "To be updated",
+    "academic_services": {
+        "transcripts": {
+            "contact_person": "Examinations & Records Unit",
+            "email": "records@polyibadan.edu.ng",
+            "portal": "https://portal.polyibadan.edu.ng/"
+        },
+        "course_registration": {
+            "portal": "https://portal.polyibadan.edu.ng/"
+        },
+        "change_department": {
+            "contact_info": "Contact the Registrar or visit the Admissions Office at the Academic Affairs Unit; forms and guidelines are available on request."
+        },
+        "school_timetable_access": {
+            "portal": "https://portal.polyibadan.edu.ng/"
+        },
+        "mode_of_lectures": {
+            "undergraduate": "Mainly physical with some blended e‑learning components",
+            "postgraduate": "Not applicable (institution focuses on ND/HND programmes)"
+        }
+    },
+    "student_life": {
+        "library": {
+            "location": "Main Campus",
+            "operating_hours": "8:00 AM – 10:00 PM (Mon–Fri), 8:00 AM – 1:00 PM (Sat) during session; 8:00 AM – 3:00 PM during vacation【179531119284558†L207-L273】",
+            "rules": "Maintain quiet, carry a student ID card for borrowing, no eating or drinking in the reading areas."
+        },
+        "wifi": {
+            "availability": "Available for registered students in the library and selected areas on campus; access credentials are provided by the ICT Unit.",
+            "reset_info": "Students can reset their portal and Wi‑Fi credentials through the ICT helpdesk or the student portal."
+        },
+        "school_id": {
+            "obtain_info": "Students obtain the school ID card after completing registration at the Student Affairs Division; lost IDs can be replaced at a fee by contacting the Registry.",
+            "replacement_info": "Apply for ID card replacement at the Registry with a police report and proof of payment."
+        },
+        "course_forms": {
+            "access": "Students download and submit course forms through their respective departmental offices and the student portal during registration."
+        },
+        "hostel": {
+            "application_link": "https://polyibadan.edu.ng/",
+            "rules": "Hostel rules include curfew hours, visitors’ policy and proper maintenance of facilities; students must abide by hall regulations issued by the Student Affairs Division.",
+            "fees": "Hostel accommodation fees vary by session and range around ₦45,000 – ₦50,000 per session; a utility fee of about ₦25,000 may apply【511023136523833†L31-L52】.",
+            "visiting_hours": "Official visiting hours are determined by the hall management and are typically during daylight hours; students should confirm with the hall administrators."
+        },
+        "student_portal": {
+            "url": "https://portal.polyibadan.edu.ng/",
+            "uses": [
+                "Result checking",
+                "Course registration",
+                "Fee payment",
+                "Printing admission letters and clearance slips",
+                "Accessing lecture notes and e‑learning materials"
+            ],
+            "common_issues": "Forgotten password, login errors and payment verification – resolved through the portal’s password reset function or by contacting the ICT Unit"
+        }
+    },
+    "fees_and_payments": {
+        "schedule_link": "https://polyibadan.edu.ng/fees-schedule",
+        "payment_info": {
+            "account_name": "THE POLYTECHNIC IBADAN",
+            "account_number": "Not publicly available; payments are made via the school portal",
+            "bank": "Specific bank details provided on the payment invoice generated through the portal"
         }
     }
-]
+}
